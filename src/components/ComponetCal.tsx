@@ -63,6 +63,7 @@ export const ComponetCal = () => {
           <p className="text-slate-600 text-sm">Tu IMC es:</p>
           <p className="text-4xl font-bold text-indigo-600 my-2">{resultado}</p>
           <p className="text-slate-700 font-medium">Categoría: <span className="text-indigo-700">{categoria}</span></p>
+          <span className="text-slate-300 text-sm">by: Jhonatan Castañeda</span>
         </div>
       )}
     </div>
